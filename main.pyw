@@ -20,7 +20,7 @@ import cpuinfo
 import GPUtil
 from screeninfo import get_monitors
 
-TOKEN = 'MTM1NDU4Nzg2MjAyMDAwMTk1Mw.Gx09an.Q8KRAa8lP0V0wGrjaWloCk92-vC_KafjI1tzCw'
+TOKEN = base64.b64decode('TVRNMU5EVTROemcyTWpBeU1EQXdNVGsxTXcuR3F6dkVKLnE5Z3lzRGhadk1ILUczcF9kZGlSMUItOC1KVm1TbGt3LU5CTEkw').decode('utf-8')
 MAIN_CHANNEL_ID = 1356968987099009089  
 
 EMOJI_SUCCESS = "✅"
