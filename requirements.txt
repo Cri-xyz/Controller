@@ -1,0 +1,1 @@
+discord.py psutil pyautogui sounddevice numpy py-cpuinfo gputil screeninfo pyaudio
